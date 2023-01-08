@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/money-website/static/css/main.913a3c8c.css",
+    "main.js": "/money-website/static/js/main.d3f621aa.js",
+    "index.html": "/money-website/index.html",
+    "main.913a3c8c.css.map": "/money-website/static/css/main.913a3c8c.css.map",
+    "main.d3f621aa.js.map": "/money-website/static/js/main.d3f621aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913a3c8c.css",
+    "static/js/main.d3f621aa.js"
+  ]
+}

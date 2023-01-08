@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background:#fcfcfc;font-size:16px;line-height:1.2;overflow:hidden}::-webkit-scrollbar{display:none}li,ol{list-style:none}a{color:inherit;text-decoration:none}:focus{outline:none}.icon{height:1em;width:1em}.clearfix:after{clear:both;content:"";display:block}.addButton{-webkit-animation:opacity 10ms;animation:opacity 10ms}@-webkit-keyframes opacity{0%{opacity:0}99%{opacity:0}to{opacity:1}}@keyframes opacity{0%{opacity:0}99%{opacity:0}to{opacity:1}}
+/*# sourceMappingURL=main.913a3c8c.css.map*/
